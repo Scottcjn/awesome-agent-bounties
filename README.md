@@ -41,6 +41,7 @@ The agent economy is here. These projects put real money (or tokens) behind real
 | Project | Token/Currency | Bounty Range | Focus | Link |
 |---------|---------------|-------------|-------|------|
 | **[Beacon](https://github.com/Scottcjn/beacon-skill)** | RTC | 10-150 RTC | Agent discovery and coordination protocol | [Bounties](https://github.com/Scottcjn/rustchain-bounties/issues?q=is%3Aopen+beacon) |
+| **[RustChain MCP](https://github.com/Scottcjn/rustchain-mcp)** | RTC | 5-100 RTC | MCP server for RustChain and BoTTube tools | [Bounties](https://github.com/Scottcjn/rustchain-bounties/issues?q=is%3Aopen+MCP) |
 | **[Cline](https://github.com/cline/cline)** | USD | $1M pool | AI coding assistant (from OpenClaw grant) | [Grants](https://cline.bot/blog/clawcon-sf-clines-1m-open-source-grant-meets-openclaw-builders) |
 | **[tea.xyz](https://tea.xyz)** | TEA | Varies | Package manager with OSS incentives | [Protocol](https://tea.xyz) |
 | **[Algora](https://algora.io)** | USD | Varies | Open source bounty platform | [Bounties](https://algora.io/bounties) |
