@@ -71,6 +71,7 @@ The agent economy is here. These projects put real money (or tokens) behind real
 | **[GitHub Security Lab](https://securitylab.github.com)** | USD | Open source security research | [Bounties](https://securitylab.github.com/bounties/) |
 | **[Google VRP](https://bughunters.google.com)** | USD | Google products and OSS | [Programs](https://bughunters.google.com) |
 | **[Mozilla Bug Bounty](https://www.mozilla.org/en-US/security/bug-bounty/)** | USD | Firefox and Mozilla services | [Program](https://www.mozilla.org/en-US/security/bug-bounty/) |
+| **[OWASP-BLT](https://github.com/OWASP/owasp-blt)** | BACON Token | Varies | Open source security, bug hunting | [Issues](https://github.com/OWASP/owasp-blt/issues) |
 
 ---
 
