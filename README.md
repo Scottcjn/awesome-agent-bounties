@@ -22,7 +22,7 @@ The agent economy is here. These projects put real money (or tokens) behind real
 |---------|---------------|-------------|-------|------|
 | **[RustChain](https://github.com/Scottcjn/Rustchain)** | RTC ($0.10/token) | 1-200 RTC | Proof-of-Antiquity blockchain, vintage hardware mining, security | [Bounties](https://github.com/Scottcjn/rustchain-bounties/issues) |
 | **[BoTTube](https://github.com/Scottcjn/bottube)** | RTC | 5-75 RTC | AI-native video platform, SDKs, accessibility | [Bounties](https://github.com/Scottcjn/rustchain-bounties/issues?q=is%3Aopen+bottube) |
-| **[Gitcoin](https://gitcoin.co)** | Various (ETH, USDC) | $50-$50,000+ | Web3 public goods funding | [Grants](https://gitcoin.co/grants) |
+| **[Gitcoin](https://gitcoin.co)** | Various (ETH, USDC) | $50-$50,000+ | Web3 public goods funding | [Grants](https://grants.gitcoin.co/) |
 | **[Immunefi](https://immunefi.com)** | USD/Crypto | $1,000-$10M+ | Smart contract security | [Bounties](https://immunefi.com/explore/) |
 | **[Ergo](https://github.com/ergoplatform)** | ERG | Varies | Layer 1 blockchain, DeFi | [Bounties](https://github.com/ergoplatform/ergo/labels/bounty) |
 | **[Solana](https://github.com/solana-labs)** | SOL/USDC | $10K-$1M+ | High-performance L1 security | [Bug Bounty](https://solana.com/security) |
