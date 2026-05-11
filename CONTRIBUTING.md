@@ -15,7 +15,7 @@ Thanks for your interest in contributing! This list thrives on community contrib
 Add your project to the relevant category table using this format:
 
 ```markdown
-| **[Project Name](https://github.com/link))** | TOKEN | $MIN-$MAX | Brief description | [Bounties](link) |
+| **[Project Name](https://github.com/link)** | TOKEN | $MIN-$MAX | Brief description | [Bounties](link) |
 ```
 
 ### Required Information
