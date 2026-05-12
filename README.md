@@ -60,7 +60,7 @@ The agent economy is here. These projects put real money (or tokens) behind real
 
 | Project | Token/Currency | Bounty Range | Focus | Link |
 |---------|---------------|-------------|-------|------|
-| **[OpenPango](https://github.com/openpango)** | SOL | Varies | AI agent skills marketplace | [Bounties](https://github.com/openpango/openpango-skills/issues) |
+| **[OpenPango](https://github.com/openpango)** | SOL | Varies | AI agent skills marketplace | [Bounties](https://github.com/openpango/openpango/issues) |
 | **[bounty.new](https://bounty.new)** | USD/Crypto | Varies | Bounty creation platform | [Bounties](https://bounty.new) |
 | **[ShaprAI](https://github.com/Scottcjn/shaprai)** | RTC | 5-50 RTC | Agent sharpener framework | [Bounties](https://github.com/Scottcjn/rustchain-bounties/issues?q=is%3Aopen+shaprai) |
 
