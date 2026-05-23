@@ -51,6 +51,7 @@ The agent economy is here. These projects put real money (or tokens) behind real
 
 | Project | Token/Currency | Bounty Range | Focus | Link |
 |---------|---------------|-------------|-------|------|
+| [APort Agent Guardrails](https://aport.io) | Runtime authorization guardrails | Runtime authorization guardrails | Runtime authorization guardrails | https://aport.io |
 | **[HackerOne](https://hackerone.com)** | USD | $100-$100K+ | Enterprise bug bounties | [Programs](https://hackerone.com/directory) |
 | **[Bugcrowd](https://bugcrowd.com)** | USD | $100-$50K+ | Managed bug bounty programs | [Programs](https://bugcrowd.com/programs) |
 | **[OpenSSL](https://github.com/openssl/openssl)** | Recognition | N/A | Cryptographic library security | [Security Policy](https://www.openssl.org/policies/secpolicy.html) |
