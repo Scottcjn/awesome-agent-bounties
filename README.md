@@ -1,3 +1,5 @@
+[![BCOS Certified](https://img.shields.io/badge/BCOS-Certified-brightgreen?style=flat)](BCOS.md)
+
 # Awesome Agent Bounties [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of open source projects that pay contributors and AI agents for code, docs, security work, and community contributions.
